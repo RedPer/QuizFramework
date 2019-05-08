@@ -1,0 +1,21 @@
+const lang = {
+    "loader.startButton": "Start",
+    "loader.anticheatLoadError": "The anticheat was enabled but there was an error while loading it. The game will be disabled. Try refreshing or if you're playing this online, check if an extension haven't blocked the script.",
+    "loader.gameDisabled": "The game is disabled!",
+    "core.results.score": "Your score is {0}%",
+    "core.results.correct": "Correct Anwsers: {0}",
+    "core.results.incorrect": "Incorrect Anwsers: {0}",
+    "anticheat.warnText": "WARNING!",
+    "anticheat.enabledText": "The anticheat system has been enabled for this game. If you defocus this tab, it will be detected and will disqualify you after {0} seconds of not being focused to prevent cheating. Also, if you defocus more than {1} times you'll be disqualified too.",
+    "anticheat.startWithButton": "To start the game use the button on the page",
+    "anticheat.blockedClearInterval": "The attempt of clearing the interval was blocked by the anticheat",
+    "anticheat.timer": "Timer",
+    "anticheat.timer.notStarted": "Not started",
+    "anticheat.timer.started": "Started",
+    "anticheat.timer.stopped": "Stopped",
+    "anticheat.timer.runOut": "Run out",
+    "anticheat.defocusCount": "Defocus count",
+    "anticheat.disqualifyTime": "You have been disqualified for defocusing this tab for longer than {0} seconds!",
+    "anticheat.disqualifyCount": "You have been disqualified for going over the defocus limit. (Which is {0})!",
+    "anticheat.results.disqualified": "You've been disqualified! These are your results:"
+}

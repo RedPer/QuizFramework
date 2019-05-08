@@ -1,0 +1,21 @@
+const lang = {
+    "loader.startButton": "Start",
+    "loader.anticheatLoadError": "Antycheat został włączony, ale wystąpił problem podczas jego ładowania. Gra zostanie wyłączona. Spróbuj odświerzyć stronę lub jeśli grasz online sprawdź czy jedno z rozszerzeń nie zablokowało skryptu.",
+    "loader.gameDisabled": "Gra jest wyłączona!",
+    "core.results.score": "Twój wynik to {0}%",
+    "core.results.correct": "Poprawne odpowiedzi: {0}",
+    "core.results.incorrect": "Niepoprawne odpowiedzi: {0}",
+    "anticheat.warnText": "UWAGA!",
+    "anticheat.enabledText": "System antycheata został włączony dla tej gry. Jeśli ta zakładka straci fokus, zostanie to wykryte i zdyskalifikuje cię po {0} sekundach nie bycia w fokusie, aby zapobiec oszukiwaniu. W dodatku, jeśli ta zakładka straci fokus więcej niż {1} razy też zostaniesz dyskwalifikowany.",
+    "anticheat.startWithButton": "Aby rozpocząć grę użyj przycisku na stronie",
+    "anticheat.blockedClearInterval": "Próba wyczyszczenia interwału została zablokowana przez antycheat",
+    "anticheat.timer": "Licznik",
+    "anticheat.timer.notStarted": "Nie rozpoczęty",
+    "anticheat.timer.started": "Rozpoczęty",
+    "anticheat.timer.stopped": "Zatrzymany",
+    "anticheat.timer.runOut": "Skończył się",
+    "anticheat.defocusCount": "Liczba defokusów",
+    "anticheat.disqualifyTime": "Zostałeś dyskwalifikowany za zdefokusowanie zakładki na dłużej niż {0} sekund!",
+    "anticheat.disqualifyCount": "Zostałeś dyskwalifikowany za wyjście poza limit defokusów. (Który wynosi {0})",
+    "anticheat.results.disqualified": "Zostałeś dyskwalifikowany! Oto twoje niepełne wyniki:"
+}
